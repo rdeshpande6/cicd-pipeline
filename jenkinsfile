@@ -6,8 +6,7 @@ pipeline {
             steps {
                 echo 'Hello World 1'
             }
-        }
-    
+        }    
     
    
         stage('Hello-2') {
